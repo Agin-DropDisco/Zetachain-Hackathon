@@ -18,7 +18,7 @@ SAGE "Save the Lost Girl" is a web adventure game with a mission to save a girl 
 2. Data Game Project: Using Web3, Unity and Zetachain for on-chain development in game development.
 
 ## Smart Contracs on Zetachain
-1. Sage Token: [0xc02703c7615Dbe47EAF58187eEF65AEf046B0955](https://explorer.zetachain.com/address/0xc02703c7615Dbe47EAF58187eEF65AEf046B09555)
+1. Sage Token: [0xc02703c7615Dbe47EAF58187eEF65AEf046B0955](https://explorer.zetachain.com/address/0xc02703c7615Dbe47EAF58187eEF65AEf046B0955)
 2. SageNFT: [0x6e60f22De27AeF308eEbD45030B73cEb7160c745](https://explorer.zetachain.com/address/0x6e60f22De27AeF308eEbD45030B73cEb7160c745)
 
 
